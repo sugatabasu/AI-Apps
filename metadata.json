@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Finder",
+  "description": "Find and discover nearby restaurants with Veg/Non-Veg indicators, user ratings, and price filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
